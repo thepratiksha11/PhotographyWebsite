@@ -1,0 +1,213 @@
+
+---Downloaded files---
+The import files for: Full Dark were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/the_pixelex
+Data file = C:\xampp\htdocs\the_pixelex/wp-content/uploads/2021/06/demo-content-import-file_2021-06-19__18-35-54.xml
+Widget file = C:\xampp\htdocs\the_pixelex/wp-content/uploads/2021/06/demo-widgets-import-file_2021-06-19__18-35-54.json
+Customizer file = not defined!
+Redux files:
+novo_theme -> C:\xampp\htdocs\the_pixelex/wp-content/uploads/2021/06/demo-redux-import-file_0-2021-06-19__18-35-54.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Text - My name is Alex Novo,I’m a photographer. - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Custom HTML - Contacts - Imported
+
+Blog Sidebar : 
+
+Categories - Categories - Imported
+Blog posts - Recent Posts - Imported
+Portfolio - Latest Photos - Imported
+Tag Cloud - Tags - Imported
+
+Footer col 1 : 
+
+Visual Editor - No Title - Imported
+
+Footer col 2 : 
+
+Portfolio - Latest Photos - Imported
+
+Footer col 3 : 
+
+Custom HTML - Contacts - Imported
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: novo_theme finished successfully!
